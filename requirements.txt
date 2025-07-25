@@ -13,3 +13,4 @@ stpyvista
 streamlit-lottie
 torch
 torchvision
+ joblib
