@@ -1,5 +1,4 @@
 openpyxl  
-xml.etree.ElementTree
 scipy
 gradio
 streamlit
@@ -13,4 +12,3 @@ stpyvista
 streamlit-lottie
 torch
 torchvision
-joblib
